@@ -1,0 +1,33 @@
+{
+    "id": "lamplifesteal",
+    "name": "LampLifesteal",
+    "store": "https://eaglerlifesteal.tebex.io/",
+    "description": "LampLifesteal is a cracked server that aims to recreate Lifesteal in 1.8.9",
+    "addresses": [
+        "mc.lamplifesteal.xyz",
+        "lamplifesteal.minecraft.pe"
+    ],
+    "primaryAddress": "mc.lamplifesteal.xyz",
+    "primaryColor": "#de0000",
+    "secondaryColor": "#ffffff",
+    "minecraftVersions": [
+        "1.8.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9",
+    "crossplay": false,
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "gameTypes": [
+        "Survival",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.com/invite/DtTWAyUzZV"
+    }
+}
